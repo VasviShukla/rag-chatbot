@@ -1,0 +1,37 @@
+Acme Corp Employee Handbook (Sample)
+
+1. Remote Work Policy
+Acme Corp employees may work remotely up to 3 days per week. Remote work
+requests must be approved by a direct manager at least one week in
+advance. Employees working remotely are expected to be reachable on
+Slack during core hours, 10am-4pm in their local timezone.
+
+2. Paid Time Off (PTO)
+Full-time employees accrue 18 days of PTO per year, prorated for new
+hires based on start date. PTO accrues monthly and can be carried over
+up to a maximum of 10 unused days into the following calendar year.
+Unused PTO beyond the carryover cap is forfeited, not paid out.
+
+3. Expense Reimbursement
+Employees can expense up to $50/month for home internet and up to
+$75/month for a co-working space, with a manager's prior approval.
+Receipts must be submitted within 30 days of the purchase through the
+finance portal. Reimbursements are processed within two pay cycles.
+
+4. Parental Leave
+Acme Corp offers 16 weeks of fully paid parental leave for the primary
+caregiver and 8 weeks for the secondary caregiver, available to all
+full-time employees regardless of tenure. Leave can be taken in one
+continuous block or split into two blocks within the first 12 months
+after the qualifying event.
+
+5. Performance Reviews
+Performance reviews happen twice a year, in June and December. Each
+review includes a self-assessment, manager feedback, and peer feedback
+from at least two colleagues. Compensation changes resulting from
+reviews take effect the following pay period.
+
+6. Equipment Policy
+New employees receive a laptop, monitor, and a one-time $300 home-office
+setup stipend within their first 30 days. Laptops are refreshed every 3
+years or sooner if hardware fails and is out of warranty.
